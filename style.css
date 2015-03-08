@@ -1,0 +1,25 @@
+
+h1 {
+  font-size: 36px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.red {
+  color: #FF0000;
+}
+
+.blue {
+  color: #0000FF;
+}
+
+.myclass {
+  font-size: 30px;
+  color: #97b54a;
+}
+
+body {
+    background-color: lightblue;
+}
