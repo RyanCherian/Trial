@@ -1,12 +1,20 @@
 
 h1 {
-  font-size: 36px;
+font-family: lobster two;
+font-style: normal;
+  font-size: 100px;
+  text-align: center;
+  color: #000000
 }
 
 p {
   font-size: 20px;
+  color: #FFFFFF;
 }
 
+.white {
+	color: #FFFFFF;
+}
 .red {
   color: #FF0000;
 }
@@ -15,11 +23,43 @@ p {
   color: #0000FF;
 }
 
-.myclass {
+
+.myclass2 {
+	font-size: 30px;
+	color: #000000;
+}
+
+.myclass3 {
+	font-size: 30px;
+	color: #000000;
+}
+
+.myclass4 {
   font-size: 30px;
-  color: #97b54a;
+  color: #000000;
+}
+
+.myclass5 {
+	font-size: 30px;
+	color: #000000;
+}
+
+.myclass6 {
+	font-size: 30px;
+	color: #000000;
+}
+
+.myclass7 {
+	font-size: 30px;
+	color: #000000;
 }
 
 body {
-    background-color: lightblue;
+    background-color: White;
+}
+
+.main-picture {
+	width: 1000;
+	height: 540px;
+
 }
