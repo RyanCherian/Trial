@@ -9,49 +9,7 @@ font-style: normal;
 
 p {
   font-size: 20px;
-  color: #FFFFFF;
-}
-
-.white {
-	color: #FFFFFF;
-}
-.red {
-  color: #FF0000;
-}
-
-.blue {
-  color: #0000FF;
-}
-
-
-.myclass2 {
-	font-size: 30px;
-	color: #000000;
-}
-
-.myclass3 {
-	font-size: 30px;
-	color: #000000;
-}
-
-.myclass4 {
-  font-size: 30px;
   color: #000000;
-}
-
-.myclass5 {
-	font-size: 30px;
-	color: #000000;
-}
-
-.myclass6 {
-	font-size: 30px;
-	color: #000000;
-}
-
-.myclass7 {
-	font-size: 30px;
-	color: #000000;
 }
 
 body {
@@ -59,7 +17,42 @@ body {
 }
 
 .main-picture {
-	width: 1000;
-	height: 540px;
+	width: 1000px;
+	height: 662px;
+}
+
+.main-picture-div {
+	text-align: center;
+}
+
+.description {
+	font-family: lobster two;
+	font-style: normal;
+  font-size: 50px;
+  text-align: left;
+  color: #000000
+}
+
+ul .social {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
 
 }
+
+ul .nav {
+	list-style-type: none;
+    margin: 0px;
+    padding: 50px;
+
+}
+
+ul.nav > li {
+	padding: 50px;
+
+}
+
