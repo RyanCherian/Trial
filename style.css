@@ -10,6 +10,7 @@ font-style: normal;
 p {
   font-size: 20px;
   color: #000000;
+  text-align: center;
 }
 
 body {
@@ -29,7 +30,7 @@ body {
 	font-family: lobster two;
 	font-style: normal;
   font-size: 50px;
-  text-align: left;
+  text-align: center;
   color: #000000
 }
 
@@ -47,12 +48,18 @@ li {
 ul .nav {
 	list-style-type: none;
     margin: 0px;
-    padding: 50px;
+    padding: 0px;
 
 }
 
 ul.nav > li {
-	padding: 50px;
-
+	padding: 65px;
+  text-decoration: none;
 }
 
+
+.nav {
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+}
